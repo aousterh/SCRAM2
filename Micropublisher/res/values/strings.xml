@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="messages">Messages</string>
+    <string name="app_name">Micropublisher</string>
+	<string name="menu_publish">Publish Message</string>
+	<string name="menu_delete_all">Delete All Messages</string>
+	<string name="menu_manage_keys">Manage Friends</string>
+	<string name="publish_button">Publish</string>
+	<string name="trust_distance">Trust Distance</string>
+	<string name="sender">Sender</string>
+</resources>
